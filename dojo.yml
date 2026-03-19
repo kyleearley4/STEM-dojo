@@ -1,11 +1,11 @@
 id: example
-name: Example Dojo
+name: STEM Camp
 type: example
 award:
-  emoji: 😀
+  emoji: 👀
 image: pwncollege/challenge-simple
 modules:
-  - id: hello
+  - id: Training
   - id: world
   - id: demo
   - id: lectures
