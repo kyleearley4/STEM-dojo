@@ -9,4 +9,4 @@ jobs:
       - uses: pwncollege/dojo-update@v1
         with:
           dojo: example
-          update_code: ${{ secrets.update_code }}
+          update_code: ${{ secrets.UPDATE_CODE }}
